@@ -30,7 +30,7 @@
 
 - 📃 I blog here: https://moien.dev
 - 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript
-- 👯 I’m looking to collaborate on: .NET & micro-services projects
+- 👯 I’m looking to collaborate on: .NET projects
 - 👾 Follow my programming channel on Telegram with +50K subscribers: [@ProgrammingTip](https://t.me/ProgrammingTip)
 
 </br>
