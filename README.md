@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Moien Tajik 👋</h1>
 
-<!--
-**MoienTajik/MoienTajik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <a href="https://github.com/MoienTajik" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png" />
+ </a> 
+  
+ <a href="https://linkedin.com/in/MoienTajik" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+ <a href="https://twitter.com/MoienTajik" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain.svg" alt="javascript" width="40" height="40" />
+</p>
+
+- 📃 I blog here: https://moien.dev
+- 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript
+- 👯 I’m looking to collaborate on: .NET & micro-services projects
+- 👾 Follow my programming channel on Telegram with +50K subscribers: [@ProgrammingTip](https://t.me/ProgrammingTip)
+
+![Moien Tajik's github stats](https://github-readme-stats.vercel.app/api?username=MoienTajik)
