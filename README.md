@@ -33,4 +33,8 @@
 - 👯 I’m looking to collaborate on: .NET & micro-services projects
 - 👾 Follow my programming channel on Telegram with +50K subscribers: [@ProgrammingTip](https://t.me/ProgrammingTip)
 
-![Moien Tajik's github stats](https://github-readme-stats.vercel.app/api?username=MoienTajik)
+</br>
+
+<p align="center">
+ <a href="#" alt="Moien Tajik's github stats"><img src="https://github-readme-stats.vercel.app/api?username=MoienTajik" /></a>
+</p>
