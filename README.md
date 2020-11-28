@@ -34,5 +34,13 @@
 </br>
 
 <p align="center">
- <a href="#" alt="Moien Tajik's github stats"><img src="https://github-readme-stats.vercel.app/api?username=MoienTajik&theme=tokyonight&show_icons=true" /></a>
+ <a href="#" alt="Moien Tajik's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoienTajik&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://www.buymeacoffee.com/MoienTajik" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
 </p>
