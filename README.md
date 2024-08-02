@@ -37,3 +37,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MoienTajik&theme=tokyonight&show_icons=true" />
  </a>
 </p>
+
+<p align="center">
+ <a href="https://mentorcruise.com/mentor/moientajik/">
+  <img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="240" alt="MentorCruise">
+ </a>
+</p>
